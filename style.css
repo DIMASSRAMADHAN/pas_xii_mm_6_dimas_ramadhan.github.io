@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Wallpoet&display=swap');
+
 .navbar-brand{
   font-family: 'Nerko One', cursive;
   color: red;
@@ -6,10 +11,13 @@
 
 .card-text{
     text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .card-title{
     text-align: center;
+    font-family: 'Wallpoet', cursive;
+    color: red;
 }
 
 .card{
@@ -29,8 +37,9 @@ body{
 }
 
 .ftext{
-    color: white;
+    color: brown;
     text-align: center;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 .list{
