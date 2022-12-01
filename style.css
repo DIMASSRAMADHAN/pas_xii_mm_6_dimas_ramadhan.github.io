@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+.navbar-brand{
+  font-family: 'Nerko One', cursive;
+  color: red;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card{
+    margin: 10px 5px 10px 5px;
+    display: inline-block;
+}
+
+body{
+    background-color: black;
+}
+
+.footer{
+    padding-bottom: 50px;
+    margin-top: 20px;
+    background-color: grey;
+    padding-top: 10px;
+}
+
+.ftext{
+    color: white;
+    text-align: center;
+}
+
+.list{
+    font-family: Times New Roman;
+    list-style: none;
+    color: white;
+    text-align: center;
+};
+
+.textf{
+    display: inline-block;
+}
+
+.logoasobi{
+    width: 30px;
+    height: 30px;
+}
+
+.row{
+    background-color: grey;
+}
