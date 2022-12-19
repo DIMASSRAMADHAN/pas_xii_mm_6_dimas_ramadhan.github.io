@@ -1,63 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Poppins&family=Space+Grotesk:wght@700&family=Wallpoet&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Wallpoet&display=swap');
-
-.navbar-brand{
-  font-family: 'Nerko One', cursive;
-  color: red;
+.rounded{
+    width: 156px;
+    height: 317px;
 }
 
-.card-text{
-    text-align: justify;
-    font-family: 'Ubuntu', sans-serif;
-}
-
-.card-title{
-    text-align: center;
-    font-family: 'Wallpoet', cursive;
-    color: red;
-}
-
-.card{
-    margin: 10px 5px 10px 5px;
-    display: inline-block;
-}
-
-body{
-    background-color: black;
-}
-
-.footer{
-    padding-bottom: 50px;
-    margin-top: 20px;
-    background-color: grey;
-    padding-top: 10px;
-}
-
-.ftext{
+.navbar-text{
+    font-family: 'Hanalei Fill', cursive;
     color: brown;
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
 }
 
-.list{
-    font-family: Times New Roman;
-    list-style: none;
-    color: white;
-    text-align: center;
-};
-
-.textf{
-    display: inline-block;
+h4{
+    font-family: 'Hanalei Fill', cursive;
 }
 
-.logoasobi{
-    width: 30px;
-    height: 30px;
+p{
+    position: justify;
+    font-family: 'Poppins', sans-serif;
 }
 
-.row{
-    background-color: grey;
+.b1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.utama{
+    color: green;
+}
+
+.t2{
+    color: green;
+}
+
+.b2{
+    color: brown;
+}
+
+label{
+    font-family: 'Poppins', sans-serif;
 }
